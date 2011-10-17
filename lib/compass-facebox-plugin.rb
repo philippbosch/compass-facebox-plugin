@@ -1,0 +1,1 @@
+Compass::Frameworks.register("facebox", :path => "#{File.dirname(__FILE__)}/..")
